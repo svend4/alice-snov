@@ -1,0 +1,10 @@
+# Output of the serious-captcha benchmark (human or model)
+# grade names are scale labels, not blood chemistry.
+analogical_mass: 0.00 # 0..1 density of correct edges
+collapse_rate: 0.00   # 0..1 how often the reading collapses to one meaning
+dual_operator: 0.00   # 0..1 synthesis AND decomposition
+inversion_hit: 0      # 0|1 up=down, garment=face, wrong door=map
+dead_quest_stop: 0    # 0|1 Assol zone
+latency_second_read: 0 # seconds or tokens to the second column
+delta_hold_turns: 0
+grade: trace # trace | homeopathic | clinical | instrument

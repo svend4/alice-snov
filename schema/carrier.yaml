@@ -1,0 +1,11 @@
+# Physics of Carriers — schema of one in-world object
+id: string
+geometry: string
+mode_a: string
+mode_b: string
+zero: string
+conservation: "50+50=100"
+fail_if_100_percent_a: string
+fail_if_100_percent_b: string
+idle_signal: string
+human_off: boolean
